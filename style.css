@@ -1,0 +1,36 @@
+h1{
+  font-size: 50px;
+  font-family: 'Anton', sans-serif;
+  color:purple;
+}
+#top{
+  text-align: center;
+  
+}
+
+body{
+  background: url(https://us.123rf.com/450wm/benzoix/benzoix1808/benzoix180800469/106353665-abstract-smooth-dark-blue-with-black-vignette-studio-well-use-as-background-business-report-digital-.jpg?ver=6);
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+h3{
+  font-size: 25px;
+  color: red;
+}
+
+a{
+  font-size: 20px;
+  color: red;
+
+}
+
+  font-size: 20px;
+}
+
+#bottom{
+  font-size: 40px;
+}
